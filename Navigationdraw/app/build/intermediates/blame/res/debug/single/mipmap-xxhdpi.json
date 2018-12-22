@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\launch.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxhdpi\\launch.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\image1.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxhdpi\\image1.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\loc.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\loc.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\home.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\logo_f.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_f.png"
+    }
+]
